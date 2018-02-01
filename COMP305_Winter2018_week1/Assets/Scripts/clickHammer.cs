@@ -28,8 +28,8 @@ public class clickHammer : MonoBehaviour {
     void Start()
     {
        //batmanDude.velocity = new Vector2(5, 0);
-       Rigidbody2D theBody = batmanDude.GetComponent<Rigidbody2D>();
-       theBody.velocity = new Vector2(5, 0);
+       //Rigidbody2D theBody = batmanDude.GetComponent<Rigidbody2D>();
+       //theBody.velocity = new Vector2(5, 0);
     }
     void Update()
     {
