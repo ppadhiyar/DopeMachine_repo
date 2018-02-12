@@ -1,0 +1,3190 @@
+fileFormatVersion: 2
+guid: 89e0f16ea41e64b45b2f8439d6d2ce33
+timeCreated: 1518445207
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kirby_0
+    21300002: Kirby_1
+    21300004: Kirby_2
+    21300006: Kirby_3
+    21300008: Kirby_4
+    21300010: Kirby_5
+    21300012: Kirby_6
+    21300014: Kirby_7
+    21300016: Kirby_8
+    21300018: Kirby_9
+    21300020: Kirby_10
+    21300022: Kirby_11
+    21300024: Kirby_12
+    21300026: Kirby_13
+    21300028: Kirby_14
+    21300030: Kirby_15
+    21300032: Kirby_16
+    21300034: Kirby_17
+    21300036: Kirby_18
+    21300038: Kirby_19
+    21300040: Kirby_20
+    21300042: Kirby_21
+    21300044: Kirby_22
+    21300046: Kirby_23
+    21300048: Kirby_24
+    21300050: Kirby_25
+    21300052: Kirby_26
+    21300054: Kirby_27
+    21300056: Kirby_28
+    21300058: Kirby_29
+    21300060: Kirby_walk01
+    21300062: Kirby_walk02
+    21300064: Kirby_walk03
+    21300066: Kirby_walk04
+    21300068: Kirby_walk05
+    21300070: Kirby_walk06
+    21300072: Kirby_walk07
+    21300074: Kirby_walk08
+    21300076: Kirby_walk09
+    21300078: Kirby_walk10
+    21300080: Kirby_40
+    21300082: Kirby_41
+    21300084: Kirby_42
+    21300086: Kirby_43
+    21300088: Kirby_44
+    21300090: Kirby_45
+    21300092: Kirby_46
+    21300094: Kirby_47
+    21300096: Kirby_48
+    21300098: Kirby_49
+    21300100: Kirby_50
+    21300102: Kirby_51
+    21300104: Kirby_52
+    21300106: Kirby_53
+    21300108: Kirby_54
+    21300110: Kirby_55
+    21300112: Kirby_56
+    21300114: Kirby_57
+    21300116: Kirby_58
+    21300118: Kirby_59
+    21300120: Kirby_60
+    21300122: Kirby_61
+    21300124: Kirby_62
+    21300126: Kirby_63
+    21300128: Kirby_64
+    21300130: Kirby_65
+    21300132: Kirby_66
+    21300134: Kirby_67
+    21300136: Kirby_68
+    21300138: Kirby_jump01
+    21300140: Kirby_jump02
+    21300142: Kirby_jump03
+    21300144: Kirby_jump04
+    21300146: Kirby_jump05
+    21300148: Kirby_jump06
+    21300150: Kirby_jump07
+    21300152: Kirby_jump08
+    21300154: Kirby_jump09
+    21300156: Kirby_jump10
+    21300158: Kirby_79
+    21300160: Kirby_80
+    21300162: Kirby_81
+    21300164: Kirby_82
+    21300166: Kirby_83
+    21300168: Kirby_84
+    21300170: Kirby_85
+    21300172: Kirby_86
+    21300174: Kirby_87
+    21300176: Kirby_88
+    21300178: Kirby_89
+    21300180: Kirby_90
+    21300182: Kirby_91
+    21300184: Kirby_92
+    21300186: Kirby_93
+    21300188: Kirby_94
+    21300190: Kirby_95
+    21300192: Kirby_96
+    21300194: Kirby_97
+    21300196: Kirby_98
+    21300198: Kirby_99
+    21300200: Kirby_100
+    21300202: Kirby_101
+    21300204: Kirby_102
+    21300206: Kirby_103
+    21300208: Kirby_104
+    21300210: Kirby_105
+    21300212: Kirby_106
+    21300214: Kirby_107
+    21300216: Kirby_108
+    21300218: Kirby_109
+    21300220: Kirby_110
+    21300222: Kirby_111
+    21300224: Kirby_112
+    21300226: Kirby_113
+    21300228: Kirby_114
+    21300230: Kirby_115
+    21300232: Kirby_116
+    21300234: Kirby_117
+    21300236: Kirby_118
+    21300238: Kirby_119
+    21300240: Kirby_120
+    21300242: Kirby_121
+    21300244: Kirby_122
+    21300246: Kirby_123
+    21300248: Kirby_124
+    21300250: Kirby_125
+    21300252: Kirby_126
+    21300254: Kirby_127
+    21300256: Kirby_128
+    21300258: Kirby_129
+    21300260: Kirby_130
+    21300262: Kirby_131
+    21300264: Kirby_132
+    21300266: Kirby_133
+    21300268: Kirby_134
+    21300270: Kirby_135
+    21300272: Kirby_136
+    21300274: Kirby_137
+    21300276: Kirby_138
+    21300278: Kirby_139
+    21300280: Kirby_140
+    21300282: Kirby_141
+    21300284: Kirby_142
+    21300286: Kirby_143
+    21300288: Kirby_144
+    21300290: Kirby_145
+    21300292: Kirby_146
+    21300294: Kirby_147
+    21300296: Kirby_148
+    21300298: Kirby_149
+    21300300: Kirby_150
+    21300302: Kirby_151
+    21300304: Kirby_152
+    21300306: Kirby_153
+    21300308: Kirby_154
+    21300310: Kirby_155
+    21300312: Kirby_156
+    21300314: Kirby_157
+    21300316: Kirby_158
+    21300318: Kirby_159
+    21300320: Kirby_160
+    21300322: Kirby_161
+    21300324: Kirby_162
+    21300326: Kirby_163
+    21300328: Kirby_164
+    21300330: Kirby_165
+    21300332: Kirby_166
+    21300334: Kirby_167
+    21300336: Kirby_168
+    21300338: Kirby_169
+    21300340: Kirby_170
+    21300342: Kirby_171
+    21300344: Kirby_172
+    21300346: Kirby_173
+    21300348: Kirby_174
+    21300350: Kirby_175
+    21300352: Kirby_176
+    21300354: Kirby_177
+    21300356: Kirby_178
+    21300358: Kirby_179
+    21300360: Kirby_180
+    21300362: Kirby_181
+    21300364: Kirby_182
+    21300366: Kirby_183
+    21300368: Kirby_184
+    21300370: Kirby_185
+    21300372: Kirby_186
+    21300374: Kirby_187
+    21300376: Kirby_188
+    21300378: Kirby_189
+    21300380: Kirby_190
+    21300382: Kirby_191
+    21300384: Kirby_192
+    21300386: Kirby_193
+    21300388: Kirby_194
+    21300390: Kirby_195
+    21300392: Kirby_196
+    21300394: Kirby_197
+    21300396: Kirby_198
+    21300398: Kirby_199
+    21300400: Kirby_200
+    21300402: Kirby_201
+    21300404: Kirby_202
+    21300406: Kirby_203
+    21300408: Kirby_204
+    21300410: Kirby_205
+    21300412: Kirby_206
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.6814639, y: 0.5363107}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 623
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 623
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 627
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 598
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 598
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 597
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 598
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 597
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 597
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 598
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 599
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 599
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 601
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 603
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 598
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 600
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 600
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 573
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 572
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk03
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 573
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk04
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 573
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk05
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 573
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk06
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 573
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk07
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 573
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk08
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 573
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk09
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 573
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_walk10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 573
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 578
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 578
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 575
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 549
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 568
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 549
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 549
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 549
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 549
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 549
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 556
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 556
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 553
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 556
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 556
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 556
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 556
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_68
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 556
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 525
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump02
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 525
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump03
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 525
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump04
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 525
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump05
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 525
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump06
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 525
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump07
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 525
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump08
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 525
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump09
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 525
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_jump10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 525
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 530
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 530
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_82
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 527
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 527
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 528
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 530
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_88
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 530
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_91
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 527
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 493
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 493
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 493
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 493
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 493
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 499
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 499
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_100
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_101
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_102
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 499
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_104
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 496
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 497
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 499
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 496
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 467
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 467
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_112
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 467
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_114
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 467
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_115
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 467
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_116
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 468
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 467
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 469
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_119
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 467
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_121
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 469
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_122
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_123
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 469
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_124
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 450
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_126
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_128
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 452
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_130
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 425
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 426
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 426
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 426
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 426
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 426
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_139
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_140
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 425
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 425
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_143
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_144
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_145
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_146
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 401
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 401
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 401
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 401
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 401
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 372
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 372
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 372
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_156
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 372
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 372
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 372
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 372
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_161
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_162
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 341
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_164
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 340
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 340
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_166
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 308
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_167
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 306
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_168
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_169
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_170
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 266
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_172
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 270
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_174
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_175
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 269
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 224
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_177
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 224
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_178
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 224
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_179
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 224
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_181
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 228
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 229
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_183
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 232
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_186
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_187
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 192
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_189
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 161
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_190
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_191
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_192
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_193
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_194
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_195
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_196
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_197
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_198
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_199
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_200
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_201
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_203
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_204
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 114
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby_206
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 59
+        width: 404
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
