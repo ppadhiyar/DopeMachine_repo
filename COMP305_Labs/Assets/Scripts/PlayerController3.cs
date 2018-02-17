@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerController3 : MonoBehaviour
+{
     //public variables
     public int maxSpeed;
     public Transform groundCheck;
@@ -23,16 +24,17 @@ public class PlayerController : MonoBehaviour {
         animator = this.GetComponent<Animator>();
 
     }
-	// Update is called once per frame
-	void Update () {
-        if (Input.GetAxis("Sprite1 Jump") > 0 && isGrounded)
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetAxis("Sprite3 Jump") > 0 && isGrounded)
         {
             animator.SetBool("ground", isGrounded);
             rBody.AddForce(new Vector2(0, jumpForce));
         }
 
-		
-	}
+
+    }
 
     //use for physics calculations
     void FixedUpdate()
@@ -42,8 +44,8 @@ public class PlayerController : MonoBehaviour {
         animator.SetBool("ground", isGrounded);
         animator.SetFloat("Vspeed", rBody.velocity.y);
 
-    
-        float moveHoriz = Input.GetAxis("Sprite1 Left Right");
+
+        float moveHoriz = Input.GetAxis("Sprite3 Left Right");
 
         rBody.velocity = new Vector2(moveHoriz * maxSpeed, rBody.velocity.y);
 
@@ -51,7 +53,8 @@ public class PlayerController : MonoBehaviour {
         {
             sRender.flipX = false;
         }
-        else if (moveHoriz < 0) {
+        else if (moveHoriz < 0)
+        {
             sRender.flipX = true;
         }
 
